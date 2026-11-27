@@ -1,12 +1,3 @@
-/* ============================================================
- * FILE        : applicant.h
- * MODUL       : ADT List Pelamar
- * DESKRIPSI   : Deklarasi tipe data dan prototype subprogram
- *               untuk mengelola daftar pelamar kerja.
- * STRUKTUR    : Singly Linked List — Strategi INSERT LAST
- * DIBUAT OLEH : [ESTEDEH]
- * ============================================================ */
-
 #ifndef APPLICANT_H
 #define APPLICANT_H
 

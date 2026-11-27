@@ -1,16 +1,3 @@
-/* ============================================================
- * FILE        : jobvacancy.cpp
- * MODUL       : ADT List Lowongan Pekerjaan — Implementasi
- * DESKRIPSI   : Implementasi subprogram untuk mengelola
- *               daftar lowongan (Singly Linked List, INSERT FIRST).
- * DIBUAT OLEH : [ESTEDEH]
- *
- * CATATAN IMPLEMENTASI:
- * - Tidak boleh menggunakan break atau return di dalam perulangan.
- * - Tidak boleh menggunakan variabel global.
- * - Gunakan new/delete untuk manajemen memori.
- * ============================================================ */
-
 #include "jobvacancy.h"
 
 /* -- J1 --

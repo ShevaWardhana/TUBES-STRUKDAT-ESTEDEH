@@ -1,16 +1,3 @@
-/* ============================================================
- * FILE        : applicant.cpp
- * MODUL       : ADT List Pelamar — Implementasi
- * DESKRIPSI   : Implementasi subprogram untuk mengelola
- *               daftar pelamar (Singly Linked List, INSERT LAST).
- * DIBUAT OLEH : [ESTEDEH]
- *
- * CATATAN IMPLEMENTASI:
- * - Tidak boleh menggunakan break atau return di dalam perulangan.
- * - Tidak boleh menggunakan variabel global.
- * - Gunakan new/delete untuk manajemen memori.
- * ============================================================ */
-
 #include "applicant.h"
 
 /* -- A1 --

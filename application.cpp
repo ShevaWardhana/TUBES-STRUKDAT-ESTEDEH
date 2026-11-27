@@ -1,17 +1,3 @@
-/* ============================================================
- * FILE        : application.cpp
- * MODUL       : ADT Multi Linked-List (MLL-01) — Implementasi
- * DESKRIPSI   : Implementasi subprogram untuk mengelola relasi
- *               many-to-many antara Pelamar dan Lowongan.
- * DIBUAT OLEH : [ESTEDEH]
- *
- * CATATAN IMPLEMENTASI:
- * - Tidak boleh menggunakan break atau return di dalam perulangan.
- * - Tidak boleh menggunakan variabel global.
- * - ElmtRelasi menggunakan INSERT FIRST.
- * - Gunakan new/delete untuk manajemen memori.
- * ============================================================ */
-
 #include "application.h"
 
 /* -- M1 --
